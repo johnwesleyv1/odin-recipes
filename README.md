@@ -1,0 +1,1 @@
+This project is a way to practice HTML skills and will be used in the future to style with CSS. 
